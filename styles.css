@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.testinomial-section{
+	padding:50px 20px;
+	background-color:#f5f5f5;
+	text-align:center
+}
+.testinomial-container{
+	max-width:900px;
+	margin:0 auto;
+}
+.testinomial{
+	border:1px solid grey;
+	background-color:white;
+	padding:20px;
+	margin:20px 0;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.testinomial-author{
+	font-size:18px;
+	line-height:1.6;
+	color:#333;
+}
+.author{
+	text-align:right;
+	font-style:italic;
+}
